@@ -75,7 +75,7 @@
 **Project Name:** Pharmacy AI - Multi-Agent Platform  
 **Purpose:** Optimize pharmacy operations through AI-powered decision support  
 **Status:** ✅ Deployed to Production  
-**URL:** https://pharmacyaiproject.streamlit.app/
+**URL:** https://pharmacyaiproject.streamlit.app
 **Cost:** $0/month (completely FREE)
 
 **Core System:**
@@ -257,7 +257,7 @@ Solution: Streamlit Cloud deployment
 **Milestone 4:** Production Deployment ✅
 - Date: Week 5
 - Deliverable: Live on Streamlit Cloud
-- Status: https://pharmacyaiapp.streamlit.app
+- Status: https://pharmacyaiproject.streamlit.app
 
 **Milestone 5:** User Deployed Successfully ✅
 - Date: Week 5
@@ -1554,7 +1554,7 @@ git push origin main
 - Time: 2-3 minutes
 
 **Step 4: Verification**
-- Check app URL: https://pharmacyaiapp.streamlit.app
+- Check app URL: https://pharmacyaiproject.streamlit.app
 - Test sample questions
 - Verify all 10 agents load
 - Check logs for errors
