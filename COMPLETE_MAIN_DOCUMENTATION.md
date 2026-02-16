@@ -75,7 +75,7 @@
 **Project Name:** Pharmacy AI - Multi-Agent Platform  
 **Purpose:** Optimize pharmacy operations through AI-powered decision support  
 **Status:** ✅ Deployed to Production  
-**URL:** https://pharmacyaiproject.streamlit.app
+**URL:** https://pharmacyaiproject.streamlit.app  
 **Cost:** $0/month (completely FREE)
 
 **Core System:**
